@@ -16,7 +16,7 @@ class CameraDemoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Prueba de cámara',
+      title: 'Prueba de cámara - Luis Morgado',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(colorSchemeSeed: Colors.indigo, useMaterial3: true),
       home: const CameraHomePage(),
